@@ -1,0 +1,23 @@
+body {
+	width: 100%;
+	margin: auto;
+	background-image: url(../images/recordstack.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	font-family: Helvetica, sans-serif;
+	font-size: 15px;
+}
+
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.header {
+	background: #ac1f2d;
+	width: 100%;
+	top: 0;
+	position: fixed;
+}
+
