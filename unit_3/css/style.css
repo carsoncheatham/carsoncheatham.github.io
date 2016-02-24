@@ -3,6 +3,11 @@ body {
 	font-family: Helvetica, arial, sans-serif;
 	font-size: 16px;
 }
+header {
+	width: 100%;
+	top: 0;
+	position: fixed;
+}
 #splash {
 	background-image: url(../images/recordstack.jpg);
 	background-repeat: no-repeat;
