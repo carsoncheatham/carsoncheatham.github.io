@@ -10,7 +10,7 @@ header {
 	position: fixed;
 }
 li {
-    display: inline;
+    float: left;
 }
 #splash {
 	background-image: url(../images/recordstack.jpg);
