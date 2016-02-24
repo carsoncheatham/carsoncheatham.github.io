@@ -9,6 +9,9 @@ header {
 	top: 0;
 	position: fixed;
 }
+li {
+    display: inline;
+}
 #splash {
 	background-image: url(../images/recordstack.jpg);
 	background-repeat: no-repeat;
