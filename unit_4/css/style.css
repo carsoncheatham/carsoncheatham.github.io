@@ -16,10 +16,10 @@ nav ul li {
 }
 nav a {
 	display: block;
-	color: black;
+	color: white;
 	text-decoration: none;
-	background-color: white; 
-	font-size: 12px;
+	background-color: black; 
+	font-size: 16px;
 	padding: 30px;
 }
 .active {
@@ -37,7 +37,7 @@ nav a {
 }
 nav {
 	position: absolute;
-	
+
 }
 nav ul li:last-child:after {
 	position: absolute;
