@@ -1,3 +1,10 @@
+html { 
+  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
@@ -5,7 +12,7 @@ font-family: 'Oswald', sans-serif;	font-size: 16px;
 }
 #header {
 	background-color: #ededed;
-	width: 50%;
+	width: 100%;
 	top: 0;
 	position: fixed;
 }
