@@ -3,9 +3,9 @@
 body {
 font-family: 'Oswald', sans-serif;	font-size: 16px;
 }
-header {
+#header {
 	background-color: #ededed;
-	width: 100%;
+	width: 50%;
 	top: 0;
 	position: fixed;
 }
