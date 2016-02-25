@@ -37,7 +37,7 @@ nav a {
 }
 nav {
 	position: absolute;
-
+	
 }
 nav ul li:last-child:after {
 	position: absolute;
