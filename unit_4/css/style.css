@@ -1,7 +1,7 @@
+<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
-	font-family: Helvetica, arial, sans-serif;
-	font-size: 16px;
+font-family: 'Oswald', sans-serif;	font-size: 16px;
 }
 header {
 	background-color: #ededed;
