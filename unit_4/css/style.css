@@ -8,12 +8,11 @@ html {
   background-size: cover;
 }
 nav ul {
-	font-size: 0; /* eliminates the CSS bug that puts a tiny space between list items */
+	font-size: 0; 
 	padding: 0;
 }
 nav ul li {
-	display: inline-block; /* so the list items sit next to each other */
-}
+	display: inline-block; 
 nav a {
 	display: block;
 	color: black;
