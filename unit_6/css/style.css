@@ -4,13 +4,13 @@ body {
 	font-size: 16px;
 }
 header {
-	background-color: #FFED74;
-	width: 100%;
+	background-color: #white;
+	width: 50%;
 	top: 0;
 	position: fixed;
 }
 nav {
-	background-color: #FFC675;
+	background-color: white;
 }
 article {
 	background-color: #E89C6C;
