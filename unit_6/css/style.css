@@ -29,13 +29,6 @@ footer {
 	background-size: cover;
 	height:100vh;
 }
-.logo {
-	width: 400px;
-	margin: 0 auto;
-}
-img {
-	width:200px;
-}
 #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
