@@ -20,11 +20,9 @@ a {
 	float: left;
 	padding: 10px;
 }
-article {
-	background-color: #E89C6C;
-}
+
 footer {
-	background-color: #FF957E;
+	background-color: #white;
 }
 #splash {
 	background-image: url(../images/turntable.jpg);
