@@ -1,31 +1,33 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	font-family: Helvetica, arial, sans-serif;
 	font-size: 16px;
 }
 header {
-	background-color: white;
+	background-color: #FFED74;
 	width: 100%;
 	top: 0;
 	position: fixed;
-	background-size: 50px;
 }
 nav {
-	background-color: white;
-	font-family: Helvetica, arial, sans-serif;
+	background-color: #FFC675;
 }
-a {
-	background-color: white;
-	color: black;
-	text-decoration: none;
-	display: block;
-	float: left;
-	padding: 20px;
+article {
+	background-color: #E89C6C;
+}
+footer {
+	background-color: #FF957E;
 }
 #splash {
-	background-image: url(../images/turntable.jpg);
+	background-image: url(../images/recordstack.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height:100vh;
 }
-footer {
-	background-color: #white;
+.logo {
+	width: 1200px;
+	margin: 0 auto;
+}
+img {
+	width:200px;
+}
